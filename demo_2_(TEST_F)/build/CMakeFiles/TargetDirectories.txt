@@ -1,3 +1,0 @@
-/home/czz/linux/TMP/GTest/demo_2_(TEST_F)/build/CMakeFiles/testf.dir
-/home/czz/linux/TMP/GTest/demo_2_(TEST_F)/build/CMakeFiles/edit_cache.dir
-/home/czz/linux/TMP/GTest/demo_2_(TEST_F)/build/CMakeFiles/rebuild_cache.dir
